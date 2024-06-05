@@ -34,5 +34,5 @@
 - Secure RESTful APIs to handle the upload, deletion, and sharing of images.
 
 
-![IMG_6602 copy](https://github.com/irasharma13/Aspect3D/assets/36807339/c11f047a-4205-4e5e-8089-5d54d7eba9d9)
+![IMG_6602](https://github.com/irasharma13/Aspect3D/assets/36807339/b730ec22-f43c-4ad6-a8b8-8b1ddd9761e7)
 
