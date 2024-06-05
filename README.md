@@ -32,3 +32,7 @@
 - Use NodeJS to handle server-side operations like image storage and retrieval.
 - Store images in AWS S3 and manage data through a MySQL database.
 - Secure RESTful APIs to handle the upload, deletion, and sharing of images.
+
+
+![IMG_6602 copy](https://github.com/irasharma13/Aspect3D/assets/36807339/c11f047a-4205-4e5e-8089-5d54d7eba9d9)
+
