@@ -1,5 +1,29 @@
 # Main Dashboard Page
 
+
+# 3D Model Viewer - Dashboard page
+
+A React application to upload, view, and manipulate 3D models using `@react-three/fiber` and `@react-three/drei`. Users can upload `.glb` files, adjust the model's rotation, zoom, and change the color using a color picker.
+
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Code Structure](#code-structure)
+- [License](#license)
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/irasharma13/Aspect3D.git
+   cd Aspect3D
+
+
+
+
+
+#HomePage
+
 ## Layout and Style
 - Utilize a grid or tile layout to display images neatly.
 - Use responsive design to ensure it works on various devices.
