@@ -4,6 +4,7 @@
 # 3D Model Viewer - Dashboard page
 
 A React application to upload, view, and manipulate 3D models using `@react-three/fiber` and `@react-three/drei`. Users can upload `.glb` files, adjust the model's rotation, zoom, and change the color using a color picker.
+<img width="1182" alt="Screenshot 2024-06-24 at 9 55 08 PM" src="https://github.com/irasharma13/Aspect3D/assets/36807339/8994af35-ed87-4777-bd02-0ea1dbdae932">
 
 ## Table of Contents
 - [Installation](#installation)
