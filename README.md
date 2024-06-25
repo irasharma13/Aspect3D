@@ -14,33 +14,31 @@ A React application to upload, view, and manipulate 3D models using `@react-thre
 
 
 2. Install dependencies:
-
-npm install
+   ```bash
+   npm install
 
 3. Start the development server:
-
-npm start
+   ```bash
+   npm start
 
 This command runs the app in development mode. Open http://localhost:3000 to view it in the browser. The page will reload if you make edits.
 
 ## Features
 
-Model Upload: Users can upload .glb files through the interface.
-Interactive Controls: Adjust 3D models with intuitive controls for rotation, zoom, and color changes.
-Responsive Design: Ensures the application is accessible and functional on various devices and screen sizes.
+- Model Upload: Users can upload .glb files through the interface.
+- Interactive Controls: Adjust 3D models with intuitive controls for rotation, zoom, and color changes.
+- Responsive Design: Ensures the application is accessible and functional on various devices and screen sizes.
 
 
-## Usage
-Uploading a Model
+## Uploading a Model
 To upload a model:
 
-Click on the 'Upload Model' button.
-Browse and select a .glb file from your computer.
-The model will automatically load into the viewer where you can manipulate it.
-Manipulating Models
-Rotation: Drag the sliders to rotate the model along the X, Y, or Z axes.
-Zoom: Use the zoom slider to zoom in and out of the model.
-Color Picker: Select a color from the color picker to change the color of the model.
+- Click on the 'Upload Model' button.
+- Browse and select a .glb file from your computer. The model will automatically load into the viewer where you can manipulate it.
+- Manipulating Models
+      - Rotation: Drag the sliders to rotate the model along the X, Y, or Z axes.
+      - Zoom: Use the zoom slider to zoom in and out of the model.
+      - Color Picker: Select a color from the color picker to change the color of the model.
 
 
 # HomePage
