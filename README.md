@@ -36,7 +36,7 @@ To upload a model:
 - Click on the 'Upload Model' button.
 - Browse and select a .glb file from your computer. The model will automatically load into the viewer where you can manipulate it.
 - Manipulating Models
-      - Rotation: Drag the sliders to rotate the model along the X, Y, or Z axes.
+  -       Rotation: Drag the sliders to rotate the model along the X, Y, or Z axes.
       - Zoom: Use the zoom slider to zoom in and out of the model.
       - Color Picker: Select a color from the color picker to change the color of the model.
 
